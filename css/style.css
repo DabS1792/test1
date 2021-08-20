@@ -375,3 +375,18 @@ body {
 .footer__btn:hover {
     background-color: #ACE2F8;
 }
+
+
+/* adaptive */
+
+@media (max-width: 360px) {
+    .container {
+        padding: 0 20px;
+    }
+}
+
+@media (min-width: 360px) {
+    .container {
+        padding: 0 20px;
+    }
+}
