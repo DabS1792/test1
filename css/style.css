@@ -1,4 +1,5 @@
-* *::before, *::after {
+* *::before,
+*::after {
     box-sizing: border-box;
 }
 
@@ -18,6 +19,7 @@ body {
     max-width: 448px;
     margin: 0 auto;
 }
+
 
 /* header */
 
@@ -205,6 +207,7 @@ body {
     margin-right: 39px;
 }
 
+
 /* reviews */
 
 .reviews__top {
@@ -300,7 +303,7 @@ body {
     font-size: 14px;
     line-height: 19px;
     background-color: #F2FBFF;
-    border: 1px solid #3b4144;
+    border: 1px solid #DADADA;
     padding: 15px;
     margin-top: 12px;
     position: relative;
@@ -327,9 +330,10 @@ body {
     width: 0;
     height: 0;
     border-top: 12px solid transparent;
-    border-bottom: 12px solid black;
+    border-bottom: 12px solid #DADADA;
     border-right: 12px solid transparent;
 }
+
 
 /* footer */
 
