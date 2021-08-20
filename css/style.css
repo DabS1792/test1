@@ -299,7 +299,8 @@ body {
 }
 
 .reviews__comments-text {
-    font-weight: normal;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
     font-size: 14px;
     line-height: 19px;
     background-color: #F2FBFF;
